@@ -1,5 +1,5 @@
 
-![Screenshot](https://i.imgur.com/4u3GjVc.png)
+![Screenshot](https://i.imgur.com/jEkxmBq.png)
 
 
 # Tic Tac Toe
